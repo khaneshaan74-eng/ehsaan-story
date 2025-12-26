@@ -14,7 +14,7 @@ const HeroSection = () => {
       <div className="relative z-10 mx-auto max-w-5xl text-center">
         {/* Profile Image */}
         <div className="mb-10 opacity-0 animate-fade-in">
-          <div className="mx-auto h-48 w-48 overflow-hidden rounded-full border-2 border-divider shadow-xl sm:h-56 sm:w-56 md:h-64 md:w-64">
+          <div className="mx-auto h-56 w-56 overflow-hidden rounded-full border-2 border-divider shadow-xl sm:h-64 sm:w-64 md:h-72 md:w-72">
             <img
               src={profileImage}
               alt="Ehsaan Quresshi"
