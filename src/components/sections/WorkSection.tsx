@@ -13,7 +13,7 @@ const workItems = [
     icon: Car,
     title: "Motorsport, Cars & Aviation",
     description:
-      "A lifelong automobile and aviation enthusiast who sees machines as symbols of freedom, engineering excellence, and human ambition.",
+      "Building toward becoming India's first paraplegic rally car racer/driver. Challenging assumptions around mobility, performance and elite motorsports. A lifelong automobile and aviation enthusiast who sees machines as symbols of freedom, engineering excellence, and human ambition.",
   },
   {
     icon: Palette,
